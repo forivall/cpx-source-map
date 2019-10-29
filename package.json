@@ -1,15 +1,15 @@
 {
-  "name": "node-module-template",
+  "name": "cpx-source-map",
   "version": "0.0.0",
-  "description": "$DESCRIPTION",
+  "description": "Source map transform for cpx",
   "keywords": [],
-  "homepage": "https://github.com/forivall/$NAME",
+  "homepage": "https://github.com/forivall/cpx-source-map",
   "bugs": {
-    "url": "https://github.com/forivall/$NAME/issues"
+    "url": "https://github.com/forivall/cpx-source-map/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:forivall/$NAME.git"
+    "url": "git@github.com:forivall/cpx-source-map.git"
   },
   "license": "ISC",
   "author": "Emily Marigold Klassen <forivall@gmail.com>",
@@ -82,7 +82,9 @@
     "useTabs": false,
     "printWidth": 89
   },
-  "dependencies": {},
+  "dependencies": {
+    "source-map": "^0.7.3"
+  },
   "devDependencies": {
     "ava": "^2.4.0",
     "coveralls": "^3.0.7",
