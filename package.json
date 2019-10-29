@@ -88,6 +88,7 @@
   "devDependencies": {
     "ava": "^2.4.0",
     "coveralls": "^3.0.7",
+    "cpx": "mysticatea/cpx",
     "eslint-config-mxo": "^1.0.0",
     "husky": "^3.0.9",
     "import-sort-cli": "^6.0.0",
