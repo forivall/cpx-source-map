@@ -83,7 +83,7 @@
     "printWidth": 89
   },
   "dependencies": {
-    "source-map": "^0.7.3"
+    "source-map": "^0.7.4"
   },
   "devDependencies": {
     "ava": "^2.4.0",
